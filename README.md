@@ -1,1 +1,1 @@
-# CI: GitHub -> Jenkins -> Wildfly
+# CI: GitHub -> Jenkins -> Payara
