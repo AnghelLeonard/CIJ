@@ -8,7 +8,7 @@
             <h2>
                 First Spring MCV App<br/><br/>
             </h2>
-            <h3>lk
+            <h3>
                 <a href="welcome.html">Click here to see the welcome message... </a>(to
                 check Spring MVC Controller... @RequestMapping("/welcome"))
             </h3>
